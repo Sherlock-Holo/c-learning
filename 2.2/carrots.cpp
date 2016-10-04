@@ -10,8 +10,7 @@ int main(void)
 
 	carrots = 25;           // assign a value to the variable
 	cout << "I have ";
-	cout << carrots;
-	cout << " carrots." << endl;
+	cout << carrots << " carrots." << endl;
 	carrots = carrots - 1; // modify the variable
 	cout << "Crunch, crunch. Now I have " << carrots << " carrots." << endl;
 	return 0;
