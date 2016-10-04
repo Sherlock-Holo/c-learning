@@ -1,3 +1,4 @@
+[2016.10.4]
 #c-learning
 This is my c++ learning process...
 去你的还是用中文吧。。。
