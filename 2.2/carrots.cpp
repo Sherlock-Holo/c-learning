@@ -2,6 +2,7 @@
 // uses and displays a variable
 
 #include <iostream>
+
 int main(void)
 {
 	using namespace std;
