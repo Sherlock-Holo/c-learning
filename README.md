@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.6]
+
+add real-LICENSE
+
 [2016.10.5 18:03]
 
 2.5 2.6
