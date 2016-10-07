@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.7 15:31]
+
+finish the chapter-1 train
+
 [2016.10.7]
 
 update the structrue
