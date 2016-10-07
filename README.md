@@ -1,5 +1,11 @@
 #c-learning
 
+[2016.10.7]
+
+update the structrue
+
+train to 5
+
 [2016.10.6]
 
 add real-LICENSE
