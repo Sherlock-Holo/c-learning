@@ -1,5 +1,11 @@
 #c-learning
 
+[2016.10.7 18:20]
+
+learn 3.1
+
+show the limit
+
 [2016.10.7 16:53]
 
 mv the files to the correct folder
