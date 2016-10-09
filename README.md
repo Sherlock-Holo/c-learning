@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.9 20:30]
+
+learn how to change dec to hex & oct
+
 [2016.10.9]
 
 learn unsigned variable
