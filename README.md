@@ -1,4 +1,4 @@
-#++c-learning
+#c-learning
 
 [2016.10.9 21:16]
 
