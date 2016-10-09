@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.9]
+
+learn unsigned variable
+
 [2016.10.7 18:20]
 
 learn 3.1
