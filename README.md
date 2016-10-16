@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.16 12:31]
+
+learn to use cout.setf ios_base::fixed ios_base::floatfield
+
 [2016.10.16]
 
 learn to use the \n \a ...
