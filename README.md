@@ -1,5 +1,11 @@
 #c-learning
 
+[2016.10.16]
+
+learn to use the \n \a ...
+
+know what is wcout wchar_t
+
 [2016.10.9 21:16]
 
 learn char cout.put()
