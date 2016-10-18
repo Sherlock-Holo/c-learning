@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.18]
+
+learn to use + - * /
+
 [2016.10.16 16:49]
 
 float use 6 to show the number, so if caculate with too long number it may be wrong
