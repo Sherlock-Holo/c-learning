@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.22]
+
+forget it ...
+
 [2016.10.18 16:45]
 
 know the difference among int/int, int/float, long/long etc.
