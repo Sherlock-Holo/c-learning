@@ -1,5 +1,11 @@
 #c-learning
 
+[2016.10.22 16:11]
+
+learn change syntax
+
+learn force change syntax
+
 [2016.10.22]
 
 forget it ...
