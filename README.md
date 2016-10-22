@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.22 21:07]
+
+traing
+
 [2016.10.22 16:11]
 
 learn change syntax
