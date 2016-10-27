@@ -1,5 +1,9 @@
 #c-learning
 
+[2016.10.27]
+
+after the setting of Pi, I have time to finish the train finally
+
 [2016.10.22 21:07]
 
 traing
