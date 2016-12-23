@@ -9,4 +9,5 @@ int main(void)
         int year;
         cin >> year;
         cout << "What is its street address?" << endl;
-
+        return 0;
+}
